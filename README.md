@@ -12,5 +12,5 @@ Work in progress pictures :
     <img width="25%" src="resources/2.png"></kbd>
 </p>
 
-youtube video soon.
+youtube videos soon.
 
