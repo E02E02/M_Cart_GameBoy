@@ -11,5 +11,7 @@ Work in progress pictures :
     <img width="25%" src="resources/3.png"></kbd>
 </p>
 
-youtube videos soon.
+youtube videos :
+
+https://www.youtube.com/shorts/RY2Bsw40Mb4
 
