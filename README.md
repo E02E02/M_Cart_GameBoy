@@ -1,4 +1,4 @@
-# M_Cart_GameBoy
+# M_Cart
 
 Picture of the prototype cartridge :
 <p align="center" width="100%">
