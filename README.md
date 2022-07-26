@@ -1,4 +1,4 @@
-# RP2040_GB_Cartridge
+# M_Cart_GameBoy
 
 Picture of the prototype cartridge :
 <p align="center" width="100%">
