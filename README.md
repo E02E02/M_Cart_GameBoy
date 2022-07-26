@@ -1,4 +1,4 @@
-# Pi_Boy_Cartridge
+# RP2040_GB_Cartridge
 
 Picture of the prototype cartridge :
 <p align="center" width="100%">
